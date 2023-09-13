@@ -18,7 +18,7 @@ class _WebviewpageState extends State<Webviewpage> {
     return SafeArea(
       top: true,
       child: WebView(
-        initialUrl: 'https://viewmeapi.000webhostapp.com/login',
+        initialUrl: 'https://lombokfuntransport.com/badminton/',
         javascriptMode: JavascriptMode.unrestricted,
         // onWebViewCreated: (WebViewController webViewController) {
         //   _controller.complete(webViewController);
